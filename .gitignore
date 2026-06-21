@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.venv/
+venv/
+
+# Django
+staticfiles/
+media/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Docker / env
+.env
+.env.*
+*.env
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Coverage / cache
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Local data
+pgdata/
